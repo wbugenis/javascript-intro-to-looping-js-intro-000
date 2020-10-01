@@ -1,4 +1,4 @@
-function forLoop (array) {
+function forLoop(array) {
   var arr = array;
   for (let i = 0; i < 25; i++) {
    if (i === 1) {
