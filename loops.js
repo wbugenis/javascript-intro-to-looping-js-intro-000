@@ -1,3 +1,8 @@
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
+
 function forLoop(array) {
   var arr = array;
   for (let i = 0; i < 25; i++) {
